@@ -138,3 +138,7 @@
 - Querydsl을 이용한 쿼리작성
 - jdbcTemplate을 이용한 쿼리 작성
 - 커스텀 레파지토리를 이용한 쿼리작성
+
+
+
+#### 문제점 : Spring Security를 이용했는데(BCryptPasswordEncoder) 로그인 / 게시판 목록 보기 기능이 안된다.
